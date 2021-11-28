@@ -1,4 +1,4 @@
-# Seeker-v1.2.6
+# Seeker-v1.2.7
 #### Concept behind Seeker is simple, just like we host phishing pages to get credentials why not host a fake page that requests your location like many popular location based websites. Seeker Hosts a fake website which asks for Location Permission and if the target allows it, we can get :
 - Longitude
 - Latitude
@@ -44,14 +44,14 @@
 - Parrot OS
 ## Installation
 ### Kali Linux / Ubuntu / Parrot OS
--  ```git clone https://github.com/Apokky-30/seeker-v1.2.6.git```
-- ```cd seeker-v1.2.6```
+-  ```git clone https://github.com/Apokky-30/seeker-v1.2.7.git```
+- ```cd seeker-v1.2.7```
 - ```apt update```
 - ```apt install python3 python3-pip php```
 - ```pip3 install requests```
 ### Termux
-- ```git clone https://github.com/Apokky-30/seeker-v1.2.6.git```
-- ```cd seeker-v1.2.6```
+- ```git clone https://github.com/Apokky-30/seeker-v1.2.7.git```
+- ```cd seeker-v1.2.7```
 - ```pkg update```
 - ```pkg install python php```
 - ```pip3 install requests```
