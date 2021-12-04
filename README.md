@@ -59,5 +59,9 @@
 - ```pip3 install requests```
 ## Run Seeker
 - ```python3 seeker.py -t manual```
+## NGROK
+- ```wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip```
+- ```unzip ngrok-stable-linux-amd64.zip```
+- ```./ngrok http 8080```
 ## Find Me On:
 ##### [Instagram](https://instagram.com/apokky_)
